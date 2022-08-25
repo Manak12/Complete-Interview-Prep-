@@ -1,6 +1,6 @@
 # Complete-Interview-Prep-
 Complete Interview Preparation for Tech Interviews contains 
- 1. Data Strucutre and Algorithms in Java 
+ 1. Data Strucutre and Algorithms in C++
  2. System Design:
      Low Level Design 
      High Level Design
